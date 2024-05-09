@@ -36,7 +36,8 @@ const MobileNavBar = ({ user }: MobileNavProps) => {
             className="
             mb-12 
             cursor-pointer 
-            flex-items-center 
+            flex
+            items-center 
             gap-1
             px-4
             "
